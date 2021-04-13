@@ -7,9 +7,9 @@ logo: F0CF706B-478D-42C1-A5BD-3A5BCCCF0B0E.png
 favicon: 3A6B5573-D0D4-4152-8A67-A801D11949F0.png
 rounded: '16'
 colors:
-  DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
-  accent: '#262626'
+  DEFAULT: '#000000'
+  highlight: '#003964'
+  accent: '#e9e9e9'
   background: '#e9e9e9'
 tracking:
   which: none
