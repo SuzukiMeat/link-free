@@ -5,7 +5,7 @@ description: 'Tenemos varias formas de llegar a su corazon'
 lang: en
 logo: F0CF706B-478D-42C1-A5BD-3A5BCCCF0B0E.png
 favicon: favelo.png
-rounded: '30'
+rounded: '25'
 colors:
   DEFAULT: '#000000'
   highlight: '#003964'
