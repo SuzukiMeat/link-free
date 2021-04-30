@@ -11,6 +11,6 @@ data:
     url: https://soundcloud.com/game-is-over-918397344
   - label: Siguenos en Instagram
     url: https://www.instagram.com/gameisoverpodcast/
-      - label: Dale Like en Facebook
+  - label: Dale Like en Facebook
     url: https://www.facebook.com/Game-is-Over-101381708701553
 ---
